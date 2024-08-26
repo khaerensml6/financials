@@ -1,0 +1,6 @@
+*.csv
+*.json
+photos
+raw_data
+*.pyc
+.myvenv
